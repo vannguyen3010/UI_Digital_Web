@@ -344,6 +344,10 @@ footer .input-group-text{
   right: 15px;
 }
 /*Product Card*/
+.wishlist-icon button{
+  border: none;
+  background-color: white;
+}
 /*Product Card Ends here*/
 
 
